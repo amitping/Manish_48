@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 36rem;
+  background-image: url('https://cdn.wallpapersafari.com/46/27/ZWbv3h.jpg');
+}
